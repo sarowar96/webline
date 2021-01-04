@@ -5,3 +5,9 @@ h1{
     width: 30%;
     text-align: center;
 }
+h2{
+    border: 5px solid #a1ee06;
+    border-radius: 10px;
+    height: 50%;
+    width: 20%;
+}
